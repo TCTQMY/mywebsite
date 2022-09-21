@@ -1,0 +1,9 @@
+:root {
+    --my-color: white;
+}
+h1{
+    color: var(--my-color);
+}
+h2{
+    color: var(--my-color);
+}
